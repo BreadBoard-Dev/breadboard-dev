@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,14,20&height=220&section=header&text=PRASAD%20GAWAS&fontSize=42&fontAlignY=36&fontColor=F8FAFC&desc=PCBA%20Test%20Engineer%20%7C%20Full%20Stack%20%7C%20Automation%20%7C%20AI%2FML%20Intelligence&descAlignY=56&descSize=16&descColor=C084FC" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,14,20&height=220&section=header&text=PRASAD%20GAWAS&fontSize=42&fontAlignY=36&fontColor=F8FAFC&desc=PCBA%20Test%20Engineer%20%7C%20SMT%20Automation%20%7C%20JTAG%20%7C%20Industrial%20Software&descAlignY=56&descSize=16&descColor=C084FC" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=PCBA+Test+Engineer+%40+Siemens;Certified+by+SPEA+Italy+(4060+S2+%26+3030M);JTAG+%2F+Boundary+Scan+Implementation+Expert;Enterprise+Full+Stack+%26+Distributed+Systems;Lean+Six+Sigma+Green+Belt+(Yield+Optimization);AI%2FML+for+Industrial+Defect+Prediction)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=PCBA+Test+Engineer+%40+Siemens;Certified+by+SPEA+Italy+(4060+S2+%26+3030M);JTAG+%2F+Boundary+Scan+Implementation;Lean+Six+Sigma+Green+Belt+(Yield+Optimization);Python+Automation+%26+Industrial+Log+Analytics;Tester+Flexibility+Analyzer+%26+Maintenance+Vision)](https://git.io/typing-svg)
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.E.%20Electronics%20%26%20Communication-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Academic Degree" />
+  <img src="https://img.shields.io/badge/Degree-Electronics%20%26%20Communication%20Engineering-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Academic Degree" />
   <img src="https://img.shields.io/badge/Location-Goa%2C%20India-581C87?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <a href="https://breadboard-dev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-breadboard--dev.github.io-6D28D9?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Prasad%20Gawas-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:prasadgawas101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact%40breadboard--dev.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-prasadgawas101%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Breadboard-Dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Breadboard--Dev-4F46E5?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -35,27 +35,27 @@
 
 ---
 
-## Executive Summary & Engineering Profile
+## About Me
 
-I am a **PCBA Test Engineer at Siemens** and **Systems Software Architect** operating at the convergence of hardware verification, distributed software engineering, and intelligent automation pipelines. My engineering practice centers on engineering high-reliability systems where physical silicon, embedded firmware, scalable backends, and machine learning telemetry act as a unified, fault-tolerant platform.
+I am a **PCBA Test Engineer** working in electronics manufacturing, with a core focus on automated test-program development, circuit troubleshooting, test-data analytics, and continuous process optimization. In tandem with hardware validation, I architect and build enterprise software tools that automate complex engineering workflows, streamline SMT test-floor operations, and turn high-volume manufacturing telemetry into actionable engineering intelligence.
 
-- **Systems Architecture & Reliability:** Architecting production-grade test ecosystems that eliminate manufacturing test escapes, guarantee signal integrity, and achieve determinism at scale.
-- **Enterprise Software Development:** Engineering high-throughput distributed backends, real-time industrial telemetry brokers, and native desktop test bench controllers utilizing C# (.NET Core), Python, TypeScript, and SQL Server.
-- **AI/ML & Predictive Intelligence:** Deploying automated defect classification models, spectral anomaly detection on sensor waveforms, and statistical process control (SPC) engines to predict component drift before physical board failure.
-- **Product Engineering Mindset:** Transitioning lab concepts into zero-defect, high-volume production realities governed by Lean Six Sigma methodologies, robust automated test suites, and strict CI/CD pipelines.
+- **Software Engineering Focus:** Building robust desktop utilities, service daemons, and reporting pipelines using Python, C# (.NET), SQL, Node-RED, and RESTful APIs to eliminate manual interventions on the production line.
+- **AI/ML & Data Analytics Expertise:** Implementing anomaly detection, log parsing algorithms, and statistical process models to predict tester parameter drift, isolate root causes of component failure, and compute real-time reliability metrics.
+- **Full-Stack & Mobile Development:** Designing cross-platform web dashboards and Android shop-floor maintenance applications (Kotlin, Jetpack Compose, Firebase, Room) for machine breakdown handling and ticket lifecycle tracking.
+- **Product Engineering Mindset:** Bridging the gap between design engineering and physical SMT production using Lean Six Sigma Green Belt methodologies to enhance test coverage, minimize cycle times, and maximize first-pass yields.
 
 **Open To:**
-- Staff / Senior Engineering Consultations in PCBA Test Architecture & DFT
-- Scalable Industrial IoT & Full Stack Systems Integration
-- Collaborative Open Source Engineering & Research in Automated Testing Systems
+- Collaborations on SMT / PCBA Test Automation & DFT Architecture
+- Development of Industrial Maintenance Analytics & Telemetry Systems
+- Open-Source Tooling for Hardware Test Log Processing and Reliability Engineering
 
 ---
 
-## Technical Stack & Tooling
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,python,cpp,ts,c,dotnet,fastapi,react,tailwind,mssql,postgres,redis,docker,git,githubactions,linux,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,kotlin,dotnet,ts,react,tailwind,androidstudio,fastapi,mssql,postgres,firebase,docker,git,githubactions,linux&theme=dark" />
 
 </div>
 
@@ -64,36 +64,47 @@ I am a **PCBA Test Engineer at Siemens** and **Systems Software Architect** oper
 <table>
   <tr>
     <td width="25%" valign="top">
-      <h4 align="center">Core Languages</h4>
+      <h4 align="center">Languages</h4>
       <ul>
-        <li><code>C# / .NET 8</code></li>
         <li><code>Python 3.x</code></li>
-        <li><code>C++ / C</code></li>
+        <li><code>C# (.NET)</code></li>
+        <li><code>Kotlin</code></li>
+        <li><code>Transact-SQL</code></li>
+        <li><code>TypeScript / JS</code></li>
+        <li><code>C / C++</code></li>
       </ul>
     </td>
     <td width="25%" valign="top">
-      <h4 align="center">Frontend & UI</h4>
+      <h4 align="center">Frontend</h4>
       <ul>
+        <li><code>Jetpack Compose</code></li>
         <li><code>WinForms / WPF</code></li>
+        <li><code>React.js</code></li>
+        <li><code>Tailwind CSS</code></li>
         <li><code>HTML5 / Canvas</code></li>
+        <li><code>Android SDK</code></li>
       </ul>
     </td>
     <td width="25%" valign="top">
-      <h4 align="center">Backend & Data</h4>
+      <h4 align="center">Backend & Databases</h4>
       <ul>
+        <li><code>ASP.NET Core Web API</code></li>
+        <li><code>Node-RED Workflows</code></li>
+        <li><code>FastAPI / Flask</code></li>
         <li><code>Microsoft SQL Server</code></li>
-        <li><code>PostgreSQL / Timescale</code></li>
-        <li><code>Google Firebas</code></li>
-        <li><code>REST / MQTT</code></li>
+        <li><code>Firebase / Firestore</code></li>
+        <li><code>Room Database (SQLite)</code></li>
       </ul>
     </td>
     <td width="25%" valign="top">
-      <h4 align="center">DevOps & Tooling</h4>
+      <h4 align="center">Cloud, DevOps & Tooling</h4>
       <ul>
         <li><code>Git / GitHub Actions</code></li>
-        <li><code>Linux Kernel / Shell</code></li>
-        <li><code>Microsoft Azure Cloud</code></li>
-        <li><code>KiCad / Altium Designer</code></li>
+        <li><code>Docker Containers</code></li>
+        <li><code>Linux Shell</code></li>
+        <li><code>Excel (openpyxl/VBA)</code></li>
+        <li><code>Postman / REST APIs</code></li>
+        <li><code>SPEA Leonardo OS</code></li>
       </ul>
     </td>
   </tr>
@@ -101,137 +112,137 @@ I am a **PCBA Test Engineer at Siemens** and **Systems Software Architect** oper
 
 ---
 
-## Applied AI & Data Intelligence Expertise
+## AI / ML & Data Analytics Expertise
 
-| Domain | Proficiency | Technical Scope & Implementation Details |
+| Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **CNN-Based Fire Detection & Computer Vision** | Proficient | Applied CNN and AI/ML concepts in an Autonomous Firefighting Terrain Rover project, focusing on intelligent visual perception for firefighting applications. |
-| **Automated Test Data Intelligence** | Advanced | Developed Python and Node-RED workflows to analyze SMT flying-probe tester logs, evaluate pass/fail results across tester systems, identify tester flexibility, and generate consolidated Excel reports. |
-| **Predictive Maintenance & Reliability Analytics** | Advanced | Designed Maintenance Vision analytics for MTTR, MTBF estimation, repeat failure rates, backlog aging, and root-cause Pareto analysis to support data-driven maintenance planning. |
-| **Industrial Data Processing & Automation** | Advanced | Implemented concurrent processing of large test-log files, date-range filtering, missing-data handling, statistical summaries, and automated reporting for intranet-based manufacturing environments. |
-| **SMT Test Engineering & Performance Analysis** | Proficient | Analyzed flying-probe test data and tester-system performance to identify cross-system testing patterns, support troubleshooting, and improve manufacturing test-process efficiency. |
+| **Industrial Log Anomaly Detection** | Advanced | Implemented unsupervised outlier detection on high-volume SMT flying-probe test logs in Python, flagging intermittent measurement deviations and tester calibration drift across multi-day manufacturing runs. |
+| **Maintenance & Reliability Analytics** | Advanced | Engineered predictive maintenance logic computing Mean Time to Repair (MTTR), estimated Mean Time Between Failures (MTBF), repeat breakdown frequency, and backlog aging metrics for shop-floor machinery. |
+| **Test Result Classification & Reconciliation** | Proficient | Developed automated classification scripts handling incomplete serialization records, missing barcode fields, and multi-station log discrepancies to produce clean yield datasets. |
+| **Statistical Process Control (SPC)** | Advanced | Applied Six Sigma statistical models (Cp, Cpk, standard deviations, DPMO) to isolate test system variance between flying-probe and bed-of-nails testers. |
 
 ---
 
-## Featured Engineering Projects
+## Featured Projects
 
 <details>
-<summary><b>01. ATE Telemetry & Distributed Test Orchestrator</b> &mdash; <i>High-throughput industrial test execution engine</i></summary>
+<summary><b>01. Tester Flexibility Analyzer</b> &mdash; <i>Intranet SMT flying-probe test log processing pipeline</i></summary>
 <br/>
 
-Integrated platform coordinating automated in-circuit test sequences across distributed test stations, archiving multi-channel analog measurements directly to enterprise data stores.
+An automated Python and Node-RED workflow engine designed to parse, reconcile, and analyze raw flying-probe tester log files across an intranet manufacturing network.
 
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | C# (.NET 8), ASP.NET Core, Python, SQL Server, Redis, Docker, RabbitMQ |
-| **Scale** | 100,000+ unit test records logged per day across multi-line manufacturing facilities |
-| **Performance** | < 12ms end-to-end telemetry ingestion latency; sub-second query response on 50M+ rows |
-| **Security** | Role-Based Access Control (RBAC), TLS 1.3 encrypted socket streams, signed audit logs |
-| **Impact** | Reduced manual test data reconciliation from hours to zero; achieved 100% board-level traceability |
-| **Repository** | `https://github.com/Breadboard-Dev/ate-telemetry-orchestrator` |
+| **Stack** | Python 3, Node-RED, Pandas, openpyxl, REST APIs, Microsoft Excel |
+| **Scale** | Multi-tester log ingestion across active production shifts; thousands of serial-number records |
+| **Performance** | Low-bandwidth intranet footprint; sub-second parsing and aggregation per test file batch |
+| **Security** | Operates strictly within local intranet bounds; sanitizes missing serial numbers without data leakage |
+| **Impact** | Reconciled pass/fail variances across tester platforms; reduced manual reporting from hours to automated minutes |
+| **Repository** | `https://github.com/Breadboard-Dev/tester-flexibility-analyzer` |
 
-**Architecture & Engineering Overview:**  
-Engineered a fault-tolerant microservice architecture running on shop-floor edge appliances. Employs async task pools in C# with memory-mapped buffers to prevent data loss during network partitioning, flushing structured test telemetry through RabbitMQ message brokers into indexed time-series tables in SQL Server.
+**Professional Project Explanation:**  
+Engineered to resolve performance variations observed between distinct flying-probe test systems testing the identical product family. The tool polls intranet log directories, parses heterogeneous file schemas, handles missing or corrupted serial-number entries, and computes cross-system correlation matrices. Outputs a consolidated, executive-ready Excel report enabling test engineers to balance production allocation effectively.
 
 </details>
 
 <details>
-<summary><b>02. JTAG Boundary-Scan Vector Synthesis Engine</b> &mdash; <i>Automated IEEE 1149.1 / 1149.6 pattern generator</i></summary>
+<summary><b>02. Maintenance Vision</b> &mdash; <i>Android shop-floor breakdown and equipment maintenance system</i></summary>
 <br/>
 
-Specialized synthesis utility translating netlists and BSDL component definitions into deterministic boundary scan vectors for dense digital PCBAs.
+A modern mobile maintenance tracking and analytics architecture engineered to streamline industrial machine breakdown reporting, ticketing, and equipment reliability analysis.
 
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | Python, C++, IEEE 1149.1 / 1149.6 BSDL Parsers, Qt Desktop |
-| **Scale** | Verifies 4,000+ pin BGA interconnect chains in < 4.2 seconds execution time |
-| **Performance** | 99.8% structural fault coverage on unprobed digital interconnects |
-| **Security** | Hardware signature verification; deterministic anti-tamper vector validation |
-| **Impact** | Eliminated physical test point requirements on high-density RF and processor layers |
-| **Repository** | `https://github.com/Breadboard-Dev/jtag-vector-synthesizer` |
+| **Stack** | Kotlin, Jetpack Compose, Firebase Firestore, Android Room DB, Coroutines, Flow |
+| **Scale** | Plant-wide machine footprint; real-time multi-technician service coordination |
+| **Performance** | Instant QR code scan resolution; offline-first architecture with automatic cloud synchronization |
+| **Security** | Role-based ticket permissions; secure cloud storage with encrypted local SQLite Room cache |
+| **Impact** | Eliminated paper logs; provides automated visibility into MTTR, MTBF, repeat breakdowns, and backlog aging |
+| **Repository** | `https://github.com/Breadboard-Dev/maintenance-vision` |
 
-**Architecture & Engineering Overview:**  
-Implements graph traversal algorithms to construct scan chain topologies from boundary-scan description language (BSDL) models. Automatically generates test patterns identifying stuck-at, open, and bridging faults across high-speed bus lines without requiring physical bed-of-nails pin contact.
+**Professional Project Explanation:**  
+Developed to eliminate communication latency during machine line stoppages. Technicians scan a machine's QR code to pull historical maintenance logs, file structured failure tickets, and track resolution steps in real time. The backend analytics engine aggregates ticket durations to automatically determine MTTR, estimated MTBF, repeat failure categories, and aging trends to guide preventative maintenance schedules.
 
 </details>
 
 <details>
-<summary><b>03. Industrial SCADA & Statistical Process Control Engine</b> &mdash; <i>Real-time quality monitoring platform</i></summary>
+<summary><b>03. Industrial Test and Automation Utilities</b> &mdash; <i>Suite of test-data processing and engineering automation scripts</i></summary>
 <br/>
 
-Full-stack production monitoring application tracking machine throughput, Cp/Cpk indices, and defect distributions in real time.
+A specialized collection of lightweight engineering utilities designed to eliminate manual data entry, parse complex test output streams, and automate manufacturing reporting.
 
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | C# WinForms / WPF, Python FastAPI, PostgreSQL, TimescaleDB, REST APIs |
-| **Scale** | Real-time monitoring across 16 concurrent SMT and PCBA test cells |
-| **Performance** | 60 FPS UI rendering with rolling 10,000-point statistical process control charts |
-| **Security** | Enterprise Active Directory authentication and encrypted database connections |
-| **Impact** | Slashed line stoppage response time by 42% via immediate out-of-control threshold alarms |
-| **Repository** | `https://github.com/Breadboard-Dev/industrial-spc-scada` |
+| **Stack** | Python, C# (.NET), Transact-SQL, Bash, PowerShell, openpyxl |
+| **Scale** | Deployed across engineering workstations for daily test program evaluation |
+| **Performance** | Near-instantaneous text parsing and structured dataset transformation (< 500ms) |
+| **Security** | Sandboxed local execution with zero external cloud dependencies |
+| **Impact** | Slashed repetitive engineering administration by over 70%; standardizes daily yield summaries |
+| **Repository** | `https://github.com/Breadboard-Dev/industrial-test-utilities` |
 
-**Architecture & Engineering Overview:**  
-Engineered with a decoupled publisher-subscriber pattern to decouple shop-floor Modbus/UART polling threads from the UI rendering layer. Includes automated calculation of statistical metrics (Mean, Standard Deviation, DPMO, Cp, Cpk) with background worker threads pushing immediate notifications to plant supervisors.
+**Professional Project Explanation:**  
+Constructed to address the repetitive daily bottlenecks encountered by PCBA test engineers. The suite contains modules for rapid log extraction, automated calculation of test yield percentages, conversion of proprietary tester outputs into clean CSV/Excel formats, and automated verification of test limits prior to production release.
 
 </details>
 
 ---
 
-## Professional Experience
+## Experience
 
 ### PCBA Test Engineer &mdash; Siemens
 **Date Range:** Full-Time  
-*Lead engineer responsible for automated test equipment (ATE) program development, hardware verification, and high-reliability PCBA testing architectures across industrial manufacturing lines.*
+*Lead engineer specializing in automated test-program development, production test troubleshooting, failure analysis, and software-driven process improvement across electronics manufacturing lines.*
 
-- Develop, debug, and validate high-coverage test programs on industry-leading automated test platforms including **SPEA 4060 S2** (Dual-Side Flying Probe) and **SPEA 3030M** (Bed-of-Nails ICT).
-- Implement advanced **JTAG / Boundary Scan** test sequences on dense BGA assemblies, maximizing physical fault coverage and isolating inter-device continuity defects without requiring physical probe pads.
-- Oversee test strategy implementation on **TRI PCBA Testers**, driving comprehensive analog, digital, and functional verification.
-- Champion **Lean Six Sigma Green Belt** methodologies across production cells, optimizing test cycle durations, mitigating false failures, and systematically elevating first-pass yields.
-- Architect internal C# (.NET) and Python utility tools for automated logging, equipment calibration, and test data ingestion into enterprise databases.
+- Develop, debug, and validate high-coverage test programs for PCBA production, ensuring zero-defect standards for industrial-grade hardware.
+- Operate, program, and maintain premier automated test systems including **SPEA 4060 S2 dual-shuttle flying probe** and **SPEA 3030M in-circuit (ICT) bed-of-nails** platforms.
+- Implement **JTAG / Boundary Scan (IEEE 1149.1 / 1149.6)** test strategies to test dense BGA assemblies and high-speed bus interconnects without physical test points.
+- Provide expert test troubleshooting and failure analysis on **TRI PCBA Testers**, conducting root-cause investigations on manufacturing defects.
+- Architect Python scripts, Node-RED workflows, and custom C# utilities to automate engineering workflows, test-log parsing, and Excel-based yield reporting.
 
-`SPEA 4060 S2` `SPEA 3030M` `JTAG / Boundary Scan` `TRI PCBA Testers` `Lean Six Sigma` `C# .NET` `Python` `DFT`
+`SPEA 4060 S2` `SPEA 3030M` `TRI PCBA Testers` `JTAG / Boundary Scan` `Python Automation` `Node-RED` `C# .NET` `Six Sigma` `Failure Analysis`
 
 ---
 
-## Key Achievements & Recognition
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
 | :--- | :--- |
-| **Certified SPEA Test Specialist** | Formally certified by SPEA Italy for advanced operation, vector development, and architecture on 4060 S2 and 3030M automated test systems. |
-| **Lean Six Sigma Green Belt** | Awarded certification for driving quantifiable process yield optimization, DMAIC execution, and variance minimization in electronics manufacturing. |
-| **Boundary Scan DFT Implementation** | Architected and deployed production-level JTAG boundary scan routines reducing test fixture fabrication costs while increasing structural test coverage. |
-| **Zero-Escape Quality Benchmark** | Recognized for engineering comprehensive test routines achieving sustained zero-defect customer delivery metrics across critical control assemblies. |
+| **SPEA Tester Certification** | Formally certified / trained by SPEA Italy for advanced test-program generation and machine operation on 4060 S2 and 3030M platforms. |
+| **Lean Six Sigma Green Belt** | Attained Green Belt certification applying DMAIC frameworks to reduce test cycle times and eliminate false failure rates in PCBA production. |
+| **Automated Log Workflow Deployment** | Architected and rolled out the Tester Flexibility Analyzer, standardizing cross-tester capability assessments across intranet environments. |
+| **JTAG / Boundary Scan Integration** | Successfully implemented boundary scan testing sequences on complex board assemblies, ensuring high test coverage on unprobed nets. |
 
 </div>
 
 ---
 
-## Professional Certifications
+## Certifications
 
 <div align="center">
 
-### SPEA Italy & Industrial ATE
-<img src="https://img.shields.io/badge/SPEA_Italy-Certified_Tester_(4060_S2_&_3030M)-0055A5?style=flat-square&logo=cplusplus&logoColor=white" alt="SPEA Italy Certification" />
-<img src="https://img.shields.io/badge/TRI_PCBA_Testers-Proficient_ICT_%26_Functional-2C3E50?style=flat-square" alt="TRI PCBA Testers" />
-<img src="https://img.shields.io/badge/JTAG_/_Boundary_Scan-IEEE_1149.1_/_1149.6_Specialist-D97706?style=flat-square" alt="JTAG Boundary Scan" />
+### Industrial ATE & Manufacturing Systems
+<img src="https://img.shields.io/badge/SPEA_Italy-Certified_4060_S2_&_3030M-0055A5?style=flat-square&logo=cplusplus&logoColor=white" alt="SPEA Italy Certification" />
+<img src="https://img.shields.io/badge/TRI_Testers-PCBA_Test_Proficient-2C3E50?style=flat-square" alt="TRI Testers" />
+<img src="https://img.shields.io/badge/JTAG_/_Boundary_Scan-IEEE_1149.1_/_1149.6_Implementation-D97706?style=flat-square" alt="JTAG Boundary Scan" />
+<img src="https://img.shields.io/badge/IPC-IPC--A--610_Class_3_Awareness-4B5563?style=flat-square" alt="IPC-A-610 Class 3" />
 
-### Quality & Process Engineering
-<img src="https://img.shields.io/badge/Lean_Six_Sigma-Green_Belt_Certified_(DMAIC)-059669?style=flat-square&logo=databricks&logoColor=white" alt="Lean Six Sigma Green Belt" />
-<img src="https://img.shields.io/badge/Quality_Standard-IPC--A--610_Class_3_Awareness-4B5563?style=flat-square" alt="IPC Standards" />
+### Quality & Operational Excellence
+<img src="https://img.shields.io/badge/Lean_Six_Sigma-Green_Belt_Certified-059669?style=flat-square&logo=databricks&logoColor=white" alt="Lean Six Sigma Green Belt" />
+<img src="https://img.shields.io/badge/Methodology-DMAIC_&_Yield_Optimization-10B981?style=flat-square" alt="DMAIC Methodology" />
 
-### Software, Cloud & Systems
-<img src="https://img.shields.io/badge/Microsoft-C%23_.NET_Enterprise_Architecture-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# .NET Architecture" />
-<img src="https://img.shields.io/badge/Python-Automation_%26_Scientific_Computing-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Automation" />
-<img src="https://img.shields.io/badge/Cisco-Networking_Basics_%26_Industrial_Routing-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking" />
-<img src="https://img.shields.io/badge/Oracle-Database_Design_%26_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" />
+### Software Development & Networking
+<img src="https://img.shields.io/badge/Python-Automation_&_Data_Analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Automation" />
+<img src="https://img.shields.io/badge/C%23-Enterprise_.NET_Architecture-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# .NET Architecture" />
+<img src="https://img.shields.io/badge/Cisco-Networking_&_Industrial_Routing-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking" />
+<img src="https://img.shields.io/badge/Oracle-Database_Design_&_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" />
 
 </div>
 
 ---
 
-## Competitive Coding & Problem Solving
+## Coding Profiles
 
 <div align="center">
 
@@ -255,7 +266,7 @@ Engineered with a decoupled publisher-subscriber pattern to decouple shop-floor 
 
 ---
 
-## GitHub Analytics & Telemetry
+## GitHub Analytics
 
 <div align="center">
 
@@ -280,7 +291,7 @@ Engineered with a decoupled publisher-subscriber pattern to decouple shop-floor 
 
 ---
 
-## Contribution Activity Graph
+## Contribution Activity
 
 <div align="center">
 
@@ -300,24 +311,24 @@ Engineered with a decoupled publisher-subscriber pattern to decouple shop-floor 
 
 ---
 
-## Current Focus & Roadmap
+## Current Focus
 
 ```yaml
 learning:
-  - Deep Learning for Radio Frequency (RF) Signal Classification
-  - Advanced High-Density Interconnect (HDI) Microvia PCB Routing
-  - Distributed Actor Model Architectures in .NET (Akka.NET)
+  - Advanced High-Density Interconnect (HDI) and High-Speed Differential Routing
+  - Practical Machine Learning Inference for Optical Solder Joint Quality Analysis
+  - Modern Jetpack Compose Android Architecture for Shop-Floor Industrial Clients
 
 building:
-  - Open-Source JTAG Boundary-Scan Debugger & Visualizer
-  - Low-Latency WebSocket Telemetry Bridge for Industrial Hardware
-  - Hardware-in-the-Loop (HIL) Fault Injection Test Harness
+  - Tester Flexibility Analyzer: Cross-system flying-probe log correlation engine
+  - Maintenance Vision: Android QR-based breakdown reporting and MTTR/MTBF dashboard
+  - Lightweight Python daemons for SMT test-station data aggregation
 
 exploring:
-  - Edge TPU Acceleration for Real-Time PCBA Optical Inspection
-  - Rust for Embedded Test Bench Instrumentation Microcontrollers
+  - Graph-based heuristic algorithms for automated test-sequence optimization
+  - Edge computing pipelines for real-time equipment vibration and temperature logging
 
 open_to:
-  - Enterprise PCBA Test Architecture & DFT Strategy Consulting
-  - High-Reliability Industrial Automation & Telemetry Systems
-  - Technical Speaking & Collaboration on Automated Test Engineering
+  - Technical collaborations on SMT / PCBA Test Automation & DFT strategies
+  - Industrial IoT, telemetry platforms, and engineering workflow automation tools
+  - Open-source test-log analysis and manufacturing quality utility projects
