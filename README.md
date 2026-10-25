@@ -69,41 +69,30 @@ I am a **PCBA Test Engineer at Siemens** and **Systems Software Architect** oper
         <li><code>C# / .NET 8</code></li>
         <li><code>Python 3.x</code></li>
         <li><code>C++ / C</code></li>
-        <li><code>TypeScript</code></li>
-        <li><code>Transact-SQL</code></li>
-        <li><code>VHDL / Verilog</code></li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <h4 align="center">Frontend & UI</h4>
       <ul>
         <li><code>WinForms / WPF</code></li>
-        <li><code>React.js / Next.js</code></li>
-        <li><code>TypeScript UI</code></li>
-        <li><code>Tailwind CSS</code></li>
-        <li><code>Electron Desktop</code></li>
         <li><code>HTML5 / Canvas</code></li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <h4 align="center">Backend & Data</h4>
       <ul>
-        <li><code>ASP.NET Core Web API</code></li>
-        <li><code>FastAPI / Flask</code></li>
         <li><code>Microsoft SQL Server</code></li>
         <li><code>PostgreSQL / Timescale</code></li>
-        <li><code>Redis Cache</code></li>
-        <li><code>gRPC / REST / MQTT</code></li>
+        <li><code>Google Firebas</code></li>
+        <li><code>REST / MQTT</code></li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <h4 align="center">DevOps & Tooling</h4>
       <ul>
-        <li><code>Docker Containerization</code></li>
         <li><code>Git / GitHub Actions</code></li>
         <li><code>Linux Kernel / Shell</code></li>
         <li><code>Microsoft Azure Cloud</code></li>
-        <li><code>Postman / Swagger</code></li>
         <li><code>KiCad / Altium Designer</code></li>
       </ul>
     </td>
@@ -116,10 +105,11 @@ I am a **PCBA Test Engineer at Siemens** and **Systems Software Architect** oper
 
 | Domain | Proficiency | Technical Scope & Implementation Details |
 | :--- | :---: | :--- |
-| **Spectral Signal Anomaly Detection** | Advanced | Deployed unsupervised autoencoders and Fast Fourier Transform (FFT) pipelines in Python to detect intermittent impedance variations and high-frequency power rail ringing during flying probe testing. |
-| **PCBA Computer Vision Defect Classification** | Proficient | Built convolutional neural network (CNN) inference microservices analyzing optical inspection frames to classify solder bridging, tombstoning, and component misalignment with 99.2% accuracy. |
-| **Predictive Quality & SPC Regression** | Advanced | Implemented statistical process control algorithms using multivariate regression to forecast test parameter drift, automating preventative maintenance intervals across ATE fixtures. |
-| **Automated Test Sequence Optimization** | Proficient | Designed graph-based heuristic algorithms that dynamically re-order in-circuit test routines based on historical component failure probabilities, reducing overall test cycle time by 28%. |
+| **CNN-Based Fire Detection & Computer Vision** | Proficient | Applied CNN and AI/ML concepts in an Autonomous Firefighting Terrain Rover project, focusing on intelligent visual perception for firefighting applications. |
+| **Automated Test Data Intelligence** | Advanced | Developed Python and Node-RED workflows to analyze SMT flying-probe tester logs, evaluate pass/fail results across tester systems, identify tester flexibility, and generate consolidated Excel reports. |
+| **Predictive Maintenance & Reliability Analytics** | Advanced | Designed Maintenance Vision analytics for MTTR, MTBF estimation, repeat failure rates, backlog aging, and root-cause Pareto analysis to support data-driven maintenance planning. |
+| **Industrial Data Processing & Automation** | Advanced | Implemented concurrent processing of large test-log files, date-range filtering, missing-data handling, statistical summaries, and automated reporting for intranet-based manufacturing environments. |
+| **SMT Test Engineering & Performance Analysis** | Proficient | Analyzed flying-probe test data and tester-system performance to identify cross-system testing patterns, support troubleshooting, and improve manufacturing test-process efficiency. |
 
 ---
 
