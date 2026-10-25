@@ -1,24 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,14,20&height=220&section=header&text=PRASAD%20GAWAS&fontSize=42&fontAlignY=36&fontColor=F8FAFC&desc=PCBA%20Test%20Engineer%20%7C%20SMT%20Automation%20%7C%20JTAG%20%7C%20Industrial%20Software&descAlignY=56&descSize=16&descColor=C084FC" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,14,20&height=220&section=header&text=PRASAD%20GAWAS&fontSize=42&fontAlignY=36&fontColor=F8FAFC&desc=PCBA%20Test%20Engineer%20%7C%20SMT%20Automation%20%7C%20Autonomous%20Robotics%20%7C%20AI%2FML&descAlignY=56&descSize=16&descColor=C084FC" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=PCBA+Test+Engineer+%40+Siemens;Certified+by+SPEA+Italy+(4060+S2+%26+3030M);JTAG+%2F+Boundary+Scan+Implementation;Lean+Six+Sigma+Green+Belt+(Yield+Optimization);Python+Automation+%26+Industrial+Log+Analytics;Tester+Flexibility+Analyzer+%26+Maintenance+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=A855F7&center=true&vCenter=true&width=680&lines=PCBA+Test+Engineer+%40+Siemens;Published+Researcher+(Autonomous+Robotics+%26+Edge+AI);Certified+by+SPEA+Italy+(4060+S2+%26+3030M);JTAG+%2F+Boundary+Scan+Implementation+Specialist;Lean+Six+Sigma+Green+Belt+(Yield+Optimization);Python+Automation+%7C+Computer+Vision+%7C+Industrial+Software)](https://git.io/typing-svg)
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-Electronics%20%26%20Communication%20Engineering-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Academic Degree" />
-  <img src="https://img.shields.io/badge/Location-Goa%2C%20India-581C87?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/B.E.-ECE%20%40%20Agnel%20Institute%20of%20Technology%20%26%20Design-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Academic Degree" />
+  <img src="https://img.shields.io/badge/Research-Published%20Author%20%5BISJEM%5D-581C87?style=flat-square&logo=academia&logoColor=white" alt="Published Research" />
+  <img src="https://img.shields.io/badge/Location-Goa%2C%20India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <a href="https://breadboard-dev.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-breadboard--dev.github.io-6D28D9?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-breadboard--dev.github.io-7C3AED?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/prasadsureshgawas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prasad%20Gawas-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Prasad%20Gawas-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:prasadgawas101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prasadgawas101%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-prasadgawas101%40gmail.com-A855F7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Breadboard-Dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Breadboard--Dev-4F46E5?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -37,17 +38,17 @@
 
 ## About Me
 
-I am a **PCBA Test Engineer** working in electronics manufacturing, with a core focus on automated test-program development, circuit troubleshooting, test-data analytics, and continuous process optimization. In tandem with hardware validation, I architect and build enterprise software tools that automate complex engineering workflows, streamline SMT test-floor operations, and turn high-volume manufacturing telemetry into actionable engineering intelligence.
+I am a **PCBA Test Engineer** and **Published Robotics Researcher** with a background in Electronics and Communication Engineering from **Agnel Institute of Technology and Design (AITD), Goa**. My professional discipline centers on automated test-program development, circuit failure analysis, test-data analytics, and autonomous cyber-physical systems. I engineer software systems and hardware platforms that automate complex engineering workflows, optimize manufacturing yields, and solve critical industrial safety challenges.
 
-- **Software Engineering Focus:** Building robust desktop utilities, service daemons, and reporting pipelines using Python, C# (.NET), SQL, Node-RED, and RESTful APIs to eliminate manual interventions on the production line.
-- **AI/ML & Data Analytics Expertise:** Implementing anomaly detection, log parsing algorithms, and statistical process models to predict tester parameter drift, isolate root causes of component failure, and compute real-time reliability metrics.
-- **Full-Stack & Mobile Development:** Designing cross-platform web dashboards and Android shop-floor maintenance applications (Kotlin, Jetpack Compose, Firebase, Room) for machine breakdown handling and ticket lifecycle tracking.
-- **Product Engineering Mindset:** Bridging the gap between design engineering and physical SMT production using Lean Six Sigma Green Belt methodologies to enhance test coverage, minimize cycle times, and maximize first-pass yields.
+- **Software Engineering Focus:** Developing high-performance engineering utilities, telemetry parsers, and automation services using Python, C# (.NET Core), SQL, Node-RED, and RESTful APIs to eliminate manual overhead across manufacturing processes.
+- **AI/ML & Computer Vision Expertise:** Engineering custom edge deep learning architectures (TensorFlow/Keras, TFLite, ResNet backbones) deployed on embedded Linux platforms (Raspberry Pi 5) for real-time hazard detection, visual flame recognition, and SMT test anomaly classification.
+- **Robotics & Hardware Integration:** Designing end-to-end autonomous ground vehicles and automated test benches, integrating 2D LiDAR SLAM (YDLIDAR X2), high-torque powertrain actuation (ESCs & e-bike motors), multi-sensor arrays (I2C/CSI/PWM), and custom power regulation architectures.
+- **Product & Quality Mindset:** Combining academic research rigor with Lean Six Sigma Green Belt operational methodologies to deliver production-grade systems with quantifiable reliability and zero-defect metrics.
 
 **Open To:**
-- Collaborations on SMT / PCBA Test Automation & DFT Architecture
-- Development of Industrial Maintenance Analytics & Telemetry Systems
-- Open-Source Tooling for Hardware Test Log Processing and Reliability Engineering
+- Industrial Collaborations on PCBA Test Engineering, DFT Strategy & SMT Automation
+- Autonomous Robotics, Edge AI Vision & Embedded Systems Engineering
+- Applied Research & Open-Source Tooling for Manufacturing Intelligence
 
 ---
 
@@ -55,7 +56,7 @@ I am a **PCBA Test Engineer** working in electronics manufacturing, with a core 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,kotlin,dotnet,ts,react,tailwind,androidstudio,fastapi,mssql,postgres,firebase,docker,git,githubactions,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,kotlin,c,dotnet,fastapi,react,tailwind,raspberrypi,opencv,tensorflow,mssql,postgres,firebase,docker,git,linux&theme=dark" />
 
 </div>
 
@@ -68,43 +69,43 @@ I am a **PCBA Test Engineer** working in electronics manufacturing, with a core 
       <ul>
         <li><code>Python 3.x</code></li>
         <li><code>C# (.NET)</code></li>
+        <li><code>C / C++</code></li>
         <li><code>Kotlin</code></li>
         <li><code>Transact-SQL</code></li>
-        <li><code>TypeScript / JS</code></li>
-        <li><code>C / C++</code></li>
+        <li><code>Bash / Shell</code></li>
       </ul>
     </td>
     <td width="25%" valign="top">
-      <h4 align="center">Frontend</h4>
+      <h4 align="center">Frontend & Mobile</h4>
       <ul>
         <li><code>Jetpack Compose</code></li>
         <li><code>WinForms / WPF</code></li>
         <li><code>React.js</code></li>
         <li><code>Tailwind CSS</code></li>
-        <li><code>HTML5 / Canvas</code></li>
         <li><code>Android SDK</code></li>
+        <li><code>HTML5 / Canvas</code></li>
       </ul>
     </td>
     <td width="25%" valign="top">
-      <h4 align="center">Backend & Databases</h4>
+      <h4 align="center">Backend & Edge AI</h4>
       <ul>
-        <li><code>ASP.NET Core Web API</code></li>
-        <li><code>Node-RED Workflows</code></li>
-        <li><code>FastAPI / Flask</code></li>
+        <li><code>TensorFlow / Keras</code></li>
+        <li><code>TensorFlow Lite (TFLite)</code></li>
+        <li><code>OpenCV / YDLIDAR-SDK</code></li>
+        <li><code>Node-RED / REST APIs</code></li>
         <li><code>Microsoft SQL Server</code></li>
-        <li><code>Firebase / Firestore</code></li>
-        <li><code>Room Database (SQLite)</code></li>
+        <li><code>Firebase / Room DB</code></li>
       </ul>
     </td>
     <td width="25%" valign="top">
-      <h4 align="center">Cloud, DevOps & Tooling</h4>
+      <h4 align="center">Robotics & Hardware</h4>
       <ul>
-        <li><code>Git / GitHub Actions</code></li>
-        <li><code>Docker Containers</code></li>
-        <li><code>Linux Shell</code></li>
-        <li><code>Excel (openpyxl/VBA)</code></li>
-        <li><code>Postman / REST APIs</code></li>
-        <li><code>SPEA Leonardo OS</code></li>
+        <li><code>Raspberry Pi 5 / Linux OS</code></li>
+        <li><code>YDLIDAR X2 (2D SLAM)</code></li>
+        <li><code>Sony IMX710 12MP (CSI)</code></li>
+        <li><code>PWM ESC Motor Control</code></li>
+        <li><code>I2C / SPI / UART / CSI</code></li>
+        <li><code>SPEA Leonardo ATE OS</code></li>
       </ul>
     </td>
   </tr>
@@ -112,41 +113,61 @@ I am a **PCBA Test Engineer** working in electronics manufacturing, with a core 
 
 ---
 
-## AI / ML & Data Analytics Expertise
+## AI / ML & Edge Intelligence Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Industrial Log Anomaly Detection** | Advanced | Implemented unsupervised outlier detection on high-volume SMT flying-probe test logs in Python, flagging intermittent measurement deviations and tester calibration drift across multi-day manufacturing runs. |
-| **Maintenance & Reliability Analytics** | Advanced | Engineered predictive maintenance logic computing Mean Time to Repair (MTTR), estimated Mean Time Between Failures (MTBF), repeat breakdown frequency, and backlog aging metrics for shop-floor machinery. |
-| **Test Result Classification & Reconciliation** | Proficient | Developed automated classification scripts handling incomplete serialization records, missing barcode fields, and multi-station log discrepancies to produce clean yield datasets. |
-| **Statistical Process Control (SPC)** | Advanced | Applied Six Sigma statistical models (Cp, Cpk, standard deviations, DPMO) to isolate test system variance between flying-probe and bed-of-nails testers. |
+| **Real-Time Edge Computer Vision** | Advanced | Engineered a custom ResNet-backbone CNN trained on augmented COCO datasets, optimized via TensorFlow Lite for sub-50ms inference on Raspberry Pi 5 to classify fire and smoke hazards under real-time video feeds. |
+| **2D LiDAR SLAM & Autonomous Navigation** | Advanced | Integrated YDLIDAR X2 and YDLIDAR-SDK in Python to achieve real-time 360° point-cloud mapping, obstacle avoidance, and dynamic target triangulation for autonomous rovers in zero-visibility environments. |
+| **Industrial Log Anomaly Detection** | Advanced | Implemented unsupervised statistical outlier models in Python to parse multi-thousand-row flying-probe test logs, detecting parameter drifts, voltage spikes, and intermittent fixture connection failures. |
+| **Maintenance Reliability Analytics** | Proficient | Formulated algorithmic predictive maintenance pipelines modeling Mean Time to Repair (MTTR), Mean Time Between Failures (MTBF), and component wear-out curves from shop-floor machine breakdown logs. |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>01. Tester Flexibility Analyzer</b> &mdash; <i>Intranet SMT flying-probe test log processing pipeline</i></summary>
+<summary><b>01. Autonomous Fire Fighting Terrain Rover</b> &mdash; <i>Edge AI & 2D LiDAR SLAM autonomous rover [Published in ISJEM]</i></summary>
 <br/>
 
-An automated Python and Node-RED workflow engine designed to parse, reconcile, and analyze raw flying-probe tester log files across an intranet manufacturing network.
+Published final year engineering research project from Agnel Institute of Technology and Design: A heavy-duty, autonomous ground vehicle designed to navigate hazardous terrain, detect fire via real-time computer vision, and execute autonomous suppression.
 
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | Python 3, Node-RED, Pandas, openpyxl, REST APIs, Microsoft Excel |
-| **Scale** | Multi-tester log ingestion across active production shifts; thousands of serial-number records |
-| **Performance** | Low-bandwidth intranet footprint; sub-second parsing and aggregation per test file batch |
-| **Security** | Operates strictly within local intranet bounds; sanitizes missing serial numbers without data leakage |
-| **Impact** | Reconciled pass/fail variances across tester platforms; reduced manual reporting from hours to automated minutes |
-| **Repository** | `https://github.com/Breadboard-Dev/tester-flexibility-analyzer` |
+| **Stack** | Python 3.13, TensorFlow/Keras, TFLite, OpenCV, YDLIDAR X2 (2D SLAM), Raspberry Pi 5 (8GB), MPU6050, CSI Camera (Sony IMX710) |
+| **Scale** | Heavy-duty welded mild-steel chassis supporting 80 kg payload; chain-track 2x2 drive powered by dual 24V 350W motors & 60A ESCs |
+| **Performance** | Extinguishes flame targets within 3–5 seconds at 0.5m safe standoff; 45 minutes field runtime via custom 24V 5500mAh Li-ion BMS battery |
+| **Security** | Dual-mode fail-safe architecture: 2.4GHz AFHDS 2A manual wireless override integrated seamlessly with autonomous GPIO logic |
+| **Impact** | Published research in ISJEM (Vol. 04, Issue 05, May 2025; DOI: `10.55041/ISJEM03608`); reduces human responder entry in toxic industrial fires |
+| **Repository** | `https://isjem.com/download/autonomous-fire-fighting-terrain-rover/` |
 
 **Professional Project Explanation:**  
-Engineered to resolve performance variations observed between distinct flying-probe test systems testing the identical product family. The tool polls intranet log directories, parses heterogeneous file schemas, handles missing or corrupted serial-number entries, and computes cross-system correlation matrices. Outputs a consolidated, executive-ready Excel report enabling test engineers to balance production allocation effectively.
+Engineered an autonomous cyber-physical rover combining mechanical design, power electronics, and edge machine learning. A camera feed is continuously analyzed by a compressed TFLite ResNet model. When fire is verified across three consecutive frames, the Raspberry Pi 5 triggers 2D SLAM path planning via a 360° YDLIDAR X2 to navigate obstructions. Once triangulated within 0.5m, a servo-clamped suppression trigger activates an automated fire suppression discharge, with post-action computer vision verifying extinction.
 
 </details>
 
 <details>
-<summary><b>02. Maintenance Vision</b> &mdash; <i>Android shop-floor breakdown and equipment maintenance system</i></summary>
+<summary><b>02. Tester Flexibility Analyzer</b> &mdash; <i>Intranet SMT flying-probe test log processing pipeline</i></summary>
+<br/>
+
+An automated Python and Node-RED workflow engine designed to parse, reconcile, and cross-compare raw flying-probe tester log files across an intranet manufacturing network.
+
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | Python 3, Node-RED, Pandas, openpyxl, REST APIs, Microsoft Excel |
+| **Scale** | Multi-tester log ingestion across active SMT production shifts; thousands of serialized board records |
+| **Performance** | Low-bandwidth intranet footprint; sub-second parsing and aggregation per test file batch |
+| **Security** | Operates strictly within local intranet bounds; sanitizes missing serial numbers and corrupted test records |
+| **Impact** | Reconciled pass/fail variances across tester platforms; reduced manual reporting from hours to automated minutes |
+| **Repository** | `https://github.com/Breadboard-Dev/tester-flexibility-analyzer` |
+
+**Professional Project Explanation:**  
+Engineered to resolve yield discrepancies observed between distinct flying-probe test systems evaluating the same product family. The tool polls intranet log directories, parses heterogeneous file schemas, handles missing or corrupted serial-number entries, and computes cross-system correlation matrices. Outputs a consolidated, executive-ready Excel report enabling test engineers to balance production allocation effectively.
+
+</details>
+
+<details>
+<summary><b>03. Maintenance Vision</b> &mdash; <i>Android shop-floor breakdown and equipment maintenance system</i></summary>
 <br/>
 
 A modern mobile maintenance tracking and analytics architecture engineered to streamline industrial machine breakdown reporting, ticketing, and equipment reliability analysis.
@@ -166,7 +187,7 @@ Developed to eliminate communication latency during machine line stoppages. Tech
 </details>
 
 <details>
-<summary><b>03. Industrial Test and Automation Utilities</b> &mdash; <i>Suite of test-data processing and engineering automation scripts</i></summary>
+<summary><b>04. Industrial Test and Automation Utilities</b> &mdash; <i>Suite of test-data processing and engineering automation scripts</i></summary>
 <br/>
 
 A specialized collection of lightweight engineering utilities designed to eliminate manual data entry, parse complex test output streams, and automate manufacturing reporting.
@@ -209,6 +230,7 @@ Constructed to address the repetitive daily bottlenecks encountered by PCBA test
 
 | Recognition | Details |
 | :--- | :--- |
+| **Published Research Paper &mdash; ISJEM** | Primary author for *"Autonomous Fire Fighting Terrain Rover"*, published in *International Scientific Journal of Engineering and Management* (Vol. 04, Issue 05, May 2025; DOI: `10.55041/ISJEM03608`). |
 | **SPEA Tester Certification** | Formally certified / trained by SPEA Italy for advanced test-program generation and machine operation on 4060 S2 and 3030M platforms. |
 | **Lean Six Sigma Green Belt** | Attained Green Belt certification applying DMAIC frameworks to reduce test cycle times and eliminate false failure rates in PCBA production. |
 | **Automated Log Workflow Deployment** | Architected and rolled out the Tester Flexibility Analyzer, standardizing cross-tester capability assessments across intranet environments. |
@@ -232,11 +254,11 @@ Constructed to address the repetitive daily bottlenecks encountered by PCBA test
 <img src="https://img.shields.io/badge/Lean_Six_Sigma-Green_Belt_Certified-059669?style=flat-square&logo=databricks&logoColor=white" alt="Lean Six Sigma Green Belt" />
 <img src="https://img.shields.io/badge/Methodology-DMAIC_&_Yield_Optimization-10B981?style=flat-square" alt="DMAIC Methodology" />
 
-### Software Development & Networking
-<img src="https://img.shields.io/badge/Python-Automation_&_Data_Analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Automation" />
+### Software, Robotics & Academic Publications
+<img src="https://img.shields.io/badge/Research-ISJEM_Published_Author-7C3AED?style=flat-square&logo=academia&logoColor=white" alt="ISJEM Published Author" />
+<img src="https://img.shields.io/badge/Python-Automation_&_Edge_AI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Automation" />
 <img src="https://img.shields.io/badge/C%23-Enterprise_.NET_Architecture-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# .NET Architecture" />
 <img src="https://img.shields.io/badge/Cisco-Networking_&_Industrial_Routing-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Networking" />
-<img src="https://img.shields.io/badge/Oracle-Database_Design_&_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" />
 
 </div>
 
@@ -315,20 +337,20 @@ Constructed to address the repetitive daily bottlenecks encountered by PCBA test
 
 ```yaml
 learning:
-  - Advanced High-Density Interconnect (HDI) and High-Speed Differential Routing
-  - Practical Machine Learning Inference for Optical Solder Joint Quality Analysis
-  - Modern Jetpack Compose Android Architecture for Shop-Floor Industrial Clients
+  - Advanced High-Density Interconnect (HDI) and Differential Signal Integrity
+  - Multi-Agent Swarm Robotics Coordination for Hazardous Industrial Environments
+  - Jetpack Compose Android Architecture for Shop-Floor Industrial Clients
 
 building:
+  - Next-Gen Autonomous Robotics Platforms with Thermal Vision & 2D SLAM
   - Tester Flexibility Analyzer: Cross-system flying-probe log correlation engine
   - Maintenance Vision: Android QR-based breakdown reporting and MTTR/MTBF dashboard
-  - Lightweight Python daemons for SMT test-station data aggregation
 
 exploring:
+  - Edge TPU Acceleration for Real-Time PCBA Optical Solder Joint Inspection
   - Graph-based heuristic algorithms for automated test-sequence optimization
-  - Edge computing pipelines for real-time equipment vibration and temperature logging
 
 open_to:
   - Technical collaborations on SMT / PCBA Test Automation & DFT strategies
-  - Industrial IoT, telemetry platforms, and engineering workflow automation tools
+  - Autonomous Robotics, Embedded Systems & Industrial Telemetry Platforms
   - Open-source test-log analysis and manufacturing quality utility projects
