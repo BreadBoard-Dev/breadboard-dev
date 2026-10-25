@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/B.E.-ECE%20%40%20Agnel%20Institute%20of%20Technology%20%26%20Design-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Academic Degree" />
   <img src="https://img.shields.io/badge/Research-Published%20Author%20%5BISJEM%5D-581C87?style=flat-square&logo=academia&logoColor=white" alt="Published Research" />
   <img src="https://img.shields.io/badge/Location-Goa%2C%20India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <a href="https://breadboard-dev.github.io" target="_blank">
+  <a href="https://breadboard-dev.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-breadboard--dev.github.io-7C3AED?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/prasadsureshgawas" target="_blank">
