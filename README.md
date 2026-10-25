@@ -9,7 +9,7 @@
 > *"Building reliable systems where hardware, software, and automation work together."*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Production--Ready-00f0ff?style=for-the-badge&logoColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Production--Ready-00f0ff?style=for-the-badge&logoColor=497df4" alt="Status" />
   <img src="https://img.shields.io/badge/Discipline-Electronics_Engineering-10b981?style=for-the-badge&logoColor=0d1117" alt="Discipline" />
   <img src="https://img.shields.io/badge/Systems-End--to--End-7928ca?style=for-the-badge&logoColor=white" alt="Systems" />
 </p>
