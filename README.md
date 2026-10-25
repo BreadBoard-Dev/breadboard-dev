@@ -1,47 +1,77 @@
 <div align="center">
 
-# ⚡ Hi, I'm Prasad Gawas (Breadboard-Dev)
+# ⚡ Hi, I'm Prasad Gawas (`Breadboard-Dev`)
 
 ### PCBA Test Engineer @ Siemens &bull; Electronics &bull; Automation &bull; Software Integration
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=PCBA+Test+Engineer+%40+Siemens;Certified+by+SPEA+Italy+(4060+S2+%26+3030M);JTAG+%2F+Boundary+Scan+Implementation+Expert;TRI+PCBA+Testers+Proficient;Lean+Six+Sigma+Green+Belt;Hardware+%2B+Software+%2B+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=👋+Welcome+Visitor!+Tap+below+to+choose+your+view;PCBA+Test+Engineer+%40+Siemens;Certified+by+SPEA+Italy+(4060+S2+%26+3030M);JTAG+%2F+Boundary+Scan+Implementation+Expert;Lean+Six+Sigma+Green+Belt;Hardware+%2B+Software+%2B+Automation)](https://git.io/typing-svg)
 
-> *"Building reliable, testable, and production-grade systems where hardware, software, and automation converge."*
+---
+
+<!-- INTERACTIVE "WHO'S WATCHING" PROFILE SELECTOR -->
+<details open>
+<summary><h3>👉 <b>[ TAP HERE: WELCOME VISITOR &mdash; WHO'S WATCHING? ]</b> ▾</h3></summary>
+
+<p align="center"><i>Select your persona below to jump straight to what you care about most:</i></p>
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="#-view-a-recruiter--hiring-manager-dossier">
+        <img src="https://img.shields.io/badge/👔_Hirer_/_Recruiter-Siemens_%26_Credentials-00646E?style=for-the-badge" alt="Hirer"/><br/><br/>
+        <b>Hiring Manager / Recruiter</b><br/>
+        <sub>Siemens • SPEA Italy • JTAG • Six Sigma • Production ROI</sub>
+      </a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="#-view-b-engineer--developer-workbench">
+        <img src="https://img.shields.io/badge/💻_Developer_/_Peer-Stack_%26_Architecture-10B981?style=for-the-badge" alt="Engineer"/><br/><br/>
+        <b>Fellow Engineer / Dev</b><br/>
+        <sub>PCBs • C# / .NET • Python • JTAG Vectors • Schematics</sub>
+      </a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="#-view-c-friend--curious-explorer">
+        <img src="https://img.shields.io/badge/☕_Friend_/_Curious-Labs_%26_Story-7928CA?style=for-the-badge" alt="Friend"/><br/><br/>
+        <b>Friend / Curious Visitor</b><br/>
+        <sub>Hardware Hacks • Experiments • Story • Casual Chat</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://www.siemens.com" target="_blank">
-    <img src="https://img.shields.io/badge/Siemens-PCBA_Test_Engineer-00646E?style=for-the-badge&logo=siemens&logoColor=white" alt="Siemens" />
-  </a>
-  <img src="https://img.shields.io/badge/SPEA_Italy-Certified_4060_S2_%26_3030M-0055A5?style=for-the-badge" alt="SPEA Certified" />
-  <img src="https://img.shields.io/badge/Lean_Six_Sigma-Green_Belt-00A86B?style=for-the-badge" alt="Lean Six Sigma Green Belt" />
-  <img src="https://img.shields.io/badge/JTAG_/_Boundary_Scan-Expert-e67e22?style=for-the-badge" alt="JTAG" />
-  <img src="https://img.shields.io/badge/TRI_Testers-Proficient-2c3e50?style=for-the-badge" alt="TRI PCBA Testers" />
+  <img src="https://img.shields.io/badge/Status-Available_for_High--Impact_Projects-00f0ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Goa,_India-10b981?style=flat-square" />
 </p>
+
+</details>
 
 ---
 
 </div>
 
-## 🧠 Professional Profile & Engineering Philosophy
+<br/>
 
-I am a **PCBA Test Engineer at Siemens** with deep hands-on expertise in electronics design, advanced automated test equipment (ATE), and industrial software integration. 
+<!-- ========================================== -->
+<!-- VIEW A: HIRER / RECRUITER DOSSIER -->
+<!-- ========================================== -->
+## 👔 [VIEW A] Recruiter & Hiring Manager Dossier
 
-My work bridges the gap between **hardware design and high-volume manufacturing reliability**:
-- Developing rigorous, high-coverage **PCBA test programs** for flying probe, in-circuit, and functional testers.
-- Implementing **JTAG / Boundary Scan** architectures to unlock deep node testability on complex high-density boards.
-- Applying **Lean Six Sigma Green Belt** methodologies to systematically reduce defects, optimize test cycle times, and maximize production yields.
+> **Executive Summary:** Certified PCBA Test Engineer at **Siemens** specializing in flying probe test programs, bed-of-nails in-circuit testing (ICT), JTAG boundary scan, and Lean Six Sigma yield maximization.
 
----
-
-## 🎖️ Core Engineering Highlights & Certifications
+<details open>
+<summary><b>🔍 Tap to expand/collapse Professional Credentials & Certifications</b></summary>
+<br/>
 
 ```plaintext
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                                 PROFESSIONAL CREDENTIALS                               │
 ├────────────────────────────────┬───────────────────────────────────────────────────────┤
-│ 🏢 Organization                │ Siemens — PCBA Test Engineer                          │
-│ 🏅 SPEA Certification          │ Certified by SPEA Italy: 4060 S2 & 3030M Testers      │
-│ 🔍 Boundary Scan & Silicon DFT │ JTAG / Boundary Scan Test Program Implementation      │
+│ 🏢 Current Role                │ PCBA Test Engineer @ Siemens                          │
+│ 🏅 SPEA Certified Tester       │ Certified by SPEA Italy (4060 S2 & 3030M Platforms)   │
+│ 🔍 Silicon Test & DFT          │ JTAG / Boundary Scan Test Program Implementation      │
 │ ⚡ In-Circuit & Flying Probe   │ SPEA 4060 S2, SPEA 3030M, and TRI PCBA Testers        │
-│ 📊 Quality & Process Mastery   │ Lean Six Sigma Green Belt (DMAIC / Yield Optimization)│
+│ 📊 Quality & Optimization      │ Lean Six Sigma Green Belt (DMAIC / Yield & DPMO)      │
+│ 💻 ATE Software Interfacing    │ C# (.NET / WinForms), Python, SQL Server Traceability │
 └────────────────────────────────┴───────────────────────────────────────────────────────┘
