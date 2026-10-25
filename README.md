@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/prasadsureshgawas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Prasad%20Gawas-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@breadboard-dev.com">
+  <a href="mailto:prasadgawas101@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact%40breadboard--dev.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Breadboard-Dev" target="_blank">
