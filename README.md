@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hi, I'm BREADBOARD_DEV
+# ⚡ Hi, I'm BREADBOARD-DEV
 
 ### PCBA Test Engineer &bull; Electronics Engineer &bull; PCB Designer &bull; Automation &bull; Software Integrator
 
