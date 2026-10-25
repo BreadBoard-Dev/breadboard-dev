@@ -14,7 +14,7 @@
   <a href="https://breadboard-dev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-breadboard--dev.github.io-6D28D9?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/prasad-gawas" target="_blank">
+  <a href="https://linkedin.com/in/prasadsureshgawas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Prasad%20Gawas-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contact@breadboard-dev.com">
