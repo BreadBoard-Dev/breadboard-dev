@@ -2,7 +2,7 @@
 
 # ⚡ Hi, I'm BREADBOARD_DEV
 
-### Electronics Engineer &bull; PCB Designer &bull; Automation &bull; Software Integrator
+### PCBA Test Engineer &bull; Electronics Engineer &bull; PCB Designer &bull; Automation &bull; Software Integrator
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=Hardware+%2B+Software+%2B+Automation;Custom+Schematics+%26+Multi-layer+PCBs;Industrial+Telemetry+%26+Control+Logic;.NET+%2F+Python+Hardware+Dashboards)](https://git.io/typing-svg)
 
